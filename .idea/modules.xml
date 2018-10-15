@@ -9,6 +9,8 @@
       <module fileurl="file://$PROJECT_DIR$/Ducks/Ducks.iml" filepath="$PROJECT_DIR$/Ducks/Ducks.iml" />
       <module fileurl="file://$PROJECT_DIR$/Fabrica/Fabrica.iml" filepath="$PROJECT_DIR$/Fabrica/Fabrica.iml" />
       <module fileurl="file://$PROJECT_DIR$/FabricalMethod/FabricalMethod.iml" filepath="$PROJECT_DIR$/FabricalMethod/FabricalMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Facade/Facade.iml" filepath="$PROJECT_DIR$/Facade/Facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pattern_method/Pattern_method.iml" filepath="$PROJECT_DIR$/Pattern_method/Pattern_method.iml" />
       <module fileurl="file://$PROJECT_DIR$/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/Singleton/Singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/Team/Team.iml" filepath="$PROJECT_DIR$/Team/Team.iml" />
       <module fileurl="file://$PROJECT_DIR$/Weather/Weather.iml" filepath="$PROJECT_DIR$/Weather/Weather.iml" />
