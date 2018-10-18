@@ -33,7 +33,7 @@ public class PancakeHouseMenu implements Menu {
     }
 
 
-    public Iterator createlterator() {
+    public Iterator createIterator() {
         return menuItems.iterator();
     }
 
