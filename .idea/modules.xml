@@ -16,6 +16,7 @@
       <module fileurl="file://$PROJECT_DIR$/Team/Team.iml" filepath="$PROJECT_DIR$/Team/Team.iml" />
       <module fileurl="file://$PROJECT_DIR$/Weather/Weather.iml" filepath="$PROJECT_DIR$/Weather/Weather.iml" />
       <module fileurl="file://$PROJECT_DIR$/Weather_integral/Weather_integral.iml" filepath="$PROJECT_DIR$/Weather_integral/Weather_integral.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linker/linker.iml" filepath="$PROJECT_DIR$/linker/linker.iml" />
       <module fileurl="file://$PROJECT_DIR$/Abstarct_fabrica/team.iml" filepath="$PROJECT_DIR$/Abstarct_fabrica/team.iml" />
     </modules>
   </component>

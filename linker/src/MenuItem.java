@@ -1,4 +1,4 @@
-public class MenuItem extends MenuComponent {
+public class MenuItem{
 
     String name;
     String description;
@@ -44,14 +44,5 @@ public class MenuItem extends MenuComponent {
         this.price = price;
     }
 
-    @Override
-    public void print() {
-        System.out.print(" " + getName());
-        if (isVegetarian()) {
-            System.out.print("(v)");
-        }
-        System.out.print(", " + getPrice());
-        System.out.print("   -- " + getDescription());
 
-    }
 }
