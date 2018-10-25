@@ -1,3 +1,5 @@
+import java.util.Iterator;
+
 public abstract class MenuComponent {
 
     public void add(MenuComponent menuComponent) {
@@ -31,5 +33,7 @@ public abstract class MenuComponent {
     public void print() {
         throw new UnsupportedOperationException();
     }
+
+    public abstract Iterator createIterator();
 
 }
