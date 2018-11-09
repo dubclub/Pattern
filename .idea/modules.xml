@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/Fabrica/Fabrica.iml" filepath="$PROJECT_DIR$/Fabrica/Fabrica.iml" />
       <module fileurl="file://$PROJECT_DIR$/FabricalMethod/FabricalMethod.iml" filepath="$PROJECT_DIR$/FabricalMethod/FabricalMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/Facade/Facade.iml" filepath="$PROJECT_DIR$/Facade/Facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ImageProxy/ImageProxy.iml" filepath="$PROJECT_DIR$/ImageProxy/ImageProxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Composite/Iterator.iml" filepath="$PROJECT_DIR$/Composite/Iterator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pattern_method/Pattern_method.iml" filepath="$PROJECT_DIR$/Pattern_method/Pattern_method.iml" />
       <module fileurl="file://$PROJECT_DIR$/Proxy/Proxy.iml" filepath="$PROJECT_DIR$/Proxy/Proxy.iml" />
