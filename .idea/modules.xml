@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Abstarct_fabrica/Abstarct_fabrica.iml" filepath="$PROJECT_DIR$/Abstarct_fabrica/Abstarct_fabrica.iml" />
       <module fileurl="file://$PROJECT_DIR$/Adapter/Adapter.iml" filepath="$PROJECT_DIR$/Adapter/Adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dating/Dating.iml" filepath="$PROJECT_DIR$/Dating/Dating.iml" />
       <module fileurl="file://$PROJECT_DIR$/Decor/Decor.iml" filepath="$PROJECT_DIR$/Decor/Decor.iml" />
       <module fileurl="file://$PROJECT_DIR$/Decor2/Decor2.iml" filepath="$PROJECT_DIR$/Decor2/Decor2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Ducks/Ducks.iml" filepath="$PROJECT_DIR$/Ducks/Ducks.iml" />
