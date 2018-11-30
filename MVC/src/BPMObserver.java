@@ -1,2 +1,3 @@
-public class BPMObserver {
+public interface BPMObserver {
+    void updateBPM();
 }
