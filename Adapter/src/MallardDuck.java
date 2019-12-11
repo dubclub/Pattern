@@ -8,4 +8,10 @@ public class MallardDuck implements Duck {
         System.out.println("I'm flying");
     }
 
+    public WildTurkey getWT() {
+
+
+        return new WildTurkey();
+    }
+
 }
